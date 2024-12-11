@@ -17,7 +17,6 @@
   },
   "devDependencies": {
   "@babel/plugin-proposal-private-property-in-object": "^7.21.0",
-  // other dev dependencies
 },
   "eslintConfig": {
     "extends": [
